@@ -1,0 +1,17 @@
+-- Notes --
+
+ToDo: 
+    -Input Validation
+    -Reading and Writing to Files
+    -Organizing Files, Debugging
+    -Web Scraping
+    -Microsoft Excel Integration
+    -Google Sheets Integration
+    -Working with PDFs/Word
+    -CSV and JSON
+    -Scheduling Tasks
+    -Sending Emails/Texts
+    -Manipulating Images
+    -Controlling Keyboard/Mouse
+
+yikes thats a lot.. 
