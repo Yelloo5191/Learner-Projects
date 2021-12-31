@@ -1,7 +1,7 @@
 -- Notes --
 
 ToDo: 
-    -Input Validation
+    -Input Validation #done
     -Reading and Writing to Files
     -Organizing Files, Debugging
     -Web Scraping
